@@ -1,0 +1,26 @@
+*{
+    text-align : center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(36, 35, 34);
+}
+
+.image{
+    height : auto;
+    width : 300px;
+}
+
+.header{
+    color: #9fbd79;
+    font-weight:600;
+    font-size : 30px;
+}
+
+#body{
+    color: #c1cab9;
+    font-weight : 600;
+}
+
+.list{
+    text-align : center;
+    display : inline-block;
+}
