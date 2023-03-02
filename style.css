@@ -20,7 +20,7 @@
 }
 
 #image-corners{
-    border-radius: 25px;
+    border-radius: 25px 50px;
     border: 2px;
     padding: 20px;
 
