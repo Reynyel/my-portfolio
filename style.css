@@ -1,6 +1,12 @@
 *{
     text-align : center;
-    font-family: Arial, Helvetica, sans-serif;   
+    font-family: Arial, Helvetica, sans-serif;  
+    box-sizing: border-box;
+}
+
+html,
+body{
+    height: 100%;
 }
 
 .text-gradient,
@@ -22,6 +28,7 @@
     background-size:cover;
     border:none;
     height: 100%;
+    width:auto;
     min-height: 100vh;
 }
 
@@ -56,6 +63,7 @@
 .header-two{
     padding: 0px;
 }
+
 
 #body{
     color: #c1cab9;
