@@ -4,9 +4,27 @@
     box-sizing: border-box;
 }
 
-html,
 body{
     height: 100%;
+    margin: 1rem;
+    padding: 1rem;
+    max-width: 400px;
+    margin: 2rem auto;
+}
+
+.module {
+    padding: 1rem;
+    background: white;
+    border-radius: 25px 25px;
+}
+
+.module h2,
+.text-gradient{
+    background: #6ea06c;
+    margin: -1rem -1rem 1rem -1rem;
+    padding: 1rem;
+    border-radius: 25px 25px 0px 0px;
+
 }
 
 .text-gradient,
@@ -54,8 +72,8 @@ body{
 }
 
 .header,
-.header-two{
-    color: #9fbd79;
+h2{
+    color: #dbe9c8;
     font-weight:600;
     font-size : 30px;
 }
@@ -64,9 +82,14 @@ body{
     padding: 0px;
 }
 
+p{
+    color: #b6d897;
+    font-weight : 600;
+}
+
 
 #body{
-    color: #c1cab9;
+    color: #6ea73c;
     font-weight : 600;
 }
 
