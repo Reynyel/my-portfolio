@@ -95,6 +95,6 @@ body{
 }
 
 ul{
-    text-align : center;
+    padding:0px;
     display : inline-block;
 }
