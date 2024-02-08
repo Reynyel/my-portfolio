@@ -235,7 +235,8 @@ img{
     width: 100%;
     height: 80vh;
     padding: 0 2rem;
-    background: var(--main-dark-grey);
+    background-image: linear-gradient(62deg, #504848 0%, 
+    #181719 100%);
 }
 
 .contact-section-header > h2{
